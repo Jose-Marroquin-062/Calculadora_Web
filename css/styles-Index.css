@@ -8,7 +8,19 @@
     max-width: 100%;
 }
 
-.st0 {
-    font-family:'Nunito-ExtraBold';
-    font-size:10.7161px;
+/* Diseño del body de la aplicación */
+body {
+    background-color: #0E0E16;
+    color: #fff;
+}
+
+.expresMath {
+    fill: #fff;
+}
+
+/* Propiedades de diseño de la pantalla de la calculadora */
+.btn-Pantalla {
+    display: flex;
+    height: 12em;
+    max-width: 100%;
 }
